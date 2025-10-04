@@ -8,8 +8,10 @@ In this project i used a real world dataset, where i used python to solve the gi
 
  2) Based on Value Counts - Check what are the different types of Make are there in our dataset. And, what is the count (occurrence) of each Make in the data ?
 
- 3) Filtering - Show all the records where Origin is Asia or Europe.
+ 3) Check what are the different types of Type are there in our dataset. And, what is the count (occurrence) of each Type in the data ?
 
- 4) Removing unwanted records  - Remove all the records (rows) where Weight is above 4000.
+ 4) Filtering - Show all the records where Origin is Asia or Europe.
 
- 5) Applying function on a column - Increase all the values of 'MPG_City' column by 3.
+ 5) Removing unwanted records  - Remove all the records (rows) where Weight is above 4000.
+
+ 6) Applying function on a column - Increase all the values of 'MPG_City' column by 3.
